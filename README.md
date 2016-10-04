@@ -10,4 +10,5 @@ v0.5: -Replaces Latex functions with .gif of that function.
 <b>Future Updates:</b>
 
 -Toggle for extension (right click contextmenu)
+
 -Smarter function detection for multi-site support
